@@ -1,0 +1,21 @@
+{
+  "name": "awesome-algorithm-examples",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "algorithm",
+    "data-struct"
+  ],
+  "author": "tyosssss@gmail.com",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^26.0.1"
+  }
+}
